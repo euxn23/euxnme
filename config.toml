@@ -2,3 +2,8 @@ baseURL = "https://euxn.me/"
 languageCode = "en-us"
 title = "EUXN.ME"
 theme = "hugo-identity-theme"
+
+disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT", "404"]
+
+[params.footer]
+copyright = "euxn.me"
