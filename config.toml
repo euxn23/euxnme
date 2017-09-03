@@ -1,3 +1,4 @@
 baseURL = "https://euxn.me/"
 languageCode = "en-us"
 title = "EUXN.ME"
+theme = "hugo-identity-theme"
