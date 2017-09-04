@@ -5,5 +5,12 @@ theme = "hugo-identity-theme"
 
 disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT", "404"]
 
+
+[params]
+favicon_ico = "favicon.ico"
+favicon_ico_sizes = "16x16 32x32"
+favicon_png = "favicon.png"
+favicon_png_sizes = "16x16 32x32"
+
 [params.footer]
 copyright = "euxn.me"
