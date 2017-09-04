@@ -14,3 +14,47 @@ favicon_png_sizes = "16x16 32x32"
 
 [params.footer]
 copyright = "euxn.me"
+
+
+[params.personal]
+name = "EUXN (YUTASZK)"
+avatar = "icon.png"
+position = "Software Engineer / Web Engineer"
+livesIn = "[Nerima, Tokyo]"
+scope = [
+  "Using: js, ts, go, py, rb",
+  "Learning: scala, hs, rs",
+  "Used: java, php",
+]
+biography = """
+"""
+
+[[params.social]]
+title = "GitHub"
+icon = "fa-github"
+link = "https://github.com/yutaszk"
+
+[[params.social]]
+title = "Eutech Blog"
+icon = "fa-book"
+link = "https://blog.euxn.me/"
+
+[[params.social]]
+title = "qiita"
+icon = "fa-search"
+link = "http://qiita.com/yutaszk"
+
+[[params.social]]
+title = "Hatena Bookmark"
+icon = "fa-bookmark"
+link = "http://b.hatena.ne.jp/yutaszk23/bookmark"
+
+[[params.social]]
+title = "Facebook"
+icon = "fa-facebook"
+link = "https://facebook.com/yutaszk"
+
+[[params.social]]
+title = "Twitter"
+icon = "fa-twitter"
+link = "https://twitter.com/euxn23"
