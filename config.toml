@@ -44,28 +44,34 @@ biography = """
 title = "GitHub"
 icon = "fa-github"
 link = "https://github.com/yutaszk"
+target = "_blank"
 
 [[params.social]]
 title = "Eutech Blog"
 icon = "fa-book"
 link = "https://blog.euxn.me/"
+target = "_blank"
 
 [[params.social]]
 title = "qiita"
 icon = "fa-search"
 link = "http://qiita.com/yutaszk"
+target = "_blank"
 
 [[params.social]]
 title = "Hatena Bookmark"
 icon = "fa-bookmark"
 link = "http://b.hatena.ne.jp/yutaszk23/bookmark"
+target = "_blank"
 
 [[params.social]]
 title = "Facebook"
 icon = "fa-facebook"
 link = "https://facebook.com/yutaszk"
+target = "_blank"
 
 [[params.social]]
 title = "Twitter"
 icon = "fa-twitter"
 link = "https://twitter.com/euxn23"
+target = "_blank"
