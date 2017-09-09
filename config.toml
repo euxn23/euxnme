@@ -19,7 +19,7 @@ copyright = "euxn.me"
 [params.personal]
 name = "EUXN (YUTASZK)"
 avatar = "icon.png"
-position = "Software Engineer / Web Engineer"
+position = "Software Engineer / Web Frontend Engineer"
 livesIn = "[Nerima, Tokyo]"
 scope = [
   "Using: js, ts, go, py, rb",
