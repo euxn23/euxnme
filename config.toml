@@ -77,3 +77,9 @@ title = "Twitter"
 icon = "fa-twitter"
 link = "https://twitter.com/euxn23"
 target = "_blank"
+
+[[params.social]]
+title = "Slack"
+icon = "fa-slack"
+link = "https://euxn-slack-invitation.herokuapp.com/"
+target = "_blank"
