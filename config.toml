@@ -45,7 +45,7 @@ biography = """
 [[params.social]]
 title = "GitHub"
 icon = "fa-github"
-link = "https://github.com/yutaszk"
+link = "https://github.com/euxn23"
 target = "_blank"
 
 [[params.social]]
@@ -57,7 +57,7 @@ target = "_blank"
 [[params.social]]
 title = "qiita"
 icon = "fa-search"
-link = "http://qiita.com/yutaszk"
+link = "http://qiita.com/euxn23"
 target = "_blank"
 
 [[params.social]]
@@ -69,7 +69,7 @@ target = "_blank"
 [[params.social]]
 title = "Facebook"
 icon = "fa-facebook"
-link = "https://facebook.com/yutaszk"
+link = "https://facebook.com/euxn23"
 target = "_blank"
 
 [[params.social]]
