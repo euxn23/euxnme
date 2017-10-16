@@ -27,7 +27,7 @@ scope = [
   "Used: java, php",
 ]
 biography = """
-@euxn《ゆん》 a.k.a. @yutaszk。本名、鈴木雄大。
+@euxn23《ゆん》。現実世界では鈴木 雄大 (YUTA SUZUKI)。
 <br>
 1992年茨城県農家生まれ農家育ち。ダイヤルアップ時代にインターネットを始める。
 <br>
@@ -39,7 +39,7 @@ biography = """
 <br>
 ミドルウェアや仮想インフラも少々。自作 PC や自宅鯖も。自動化やツール開発も好む。
 <br>
-最近は GitLab Issue Board のクライアント開発、ダンジョン探索ブラウザゲーム開発をしている。
+最近は ~~GitLab Issue Board のクライアント開発、ダンジョン探索ブラウザゲーム~~ 雑なツールやWeb サービス開発をしている。
 """
 
 [[params.social]]
