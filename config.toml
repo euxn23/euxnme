@@ -2,6 +2,7 @@ baseURL = "https://euxn.me/"
 languageCode = "en-us"
 title = "EUXN.ME"
 theme = "hugo-identity-theme"
+googleAnalytics = "UA-111723564-2"
 
 disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT", "404"]
 
