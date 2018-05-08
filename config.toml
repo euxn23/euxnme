@@ -36,11 +36,9 @@ biography = """
 <br>
 2015 年よりエンジニアサポートCROSS ([cross-party.com](http://cross-party.com))実行委員。
 <br>
-フロントエンドの SPA や、サーバサイドの WebAPI を中心に開発。
+Web を中心にフロントからサーバサイドまで開発。インフラも少々
 <br>
-ミドルウェアや仮想インフラも少々。自作 PC や自宅鯖も。自動化やツール開発も好む。
-<br>
-1月から目黒の会社のWeb エンジニアになります。
+現在は目黒で働く Web エンジニア。
 """
 
 [[params.social]]
@@ -80,7 +78,8 @@ link = "https://twitter.com/euxn23"
 target = "_blank"
 
 [[params.social]]
-title = "Slack"
-icon = "fa-slack"
-link = "https://euxn-slack-invitation.herokuapp.com/"
+title = "Slideshare"
+icon = "fa-slideshare"
+link = "https://www.slideshare.net/euxn"
 target = "_blank"
+
