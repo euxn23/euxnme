@@ -21,24 +21,24 @@ copyright = "euxn.me"
 name = "EUXN23"
 avatar = "icon.png"
 position = "Software Engineer / Web Frontend Engineer"
-livesIn = "[Meguro, Tokyo]"
+livesIn = "[Shinagawa, Tokyo]"
 scope = [
-  "Using: js, ts, go, py, rb",
+  "Using: js, ts, go",
   "Learning: scala, hs, rs",
-  "Used: java, php",
+  "Used: java, rb, py, php",
 ]
 biography = """
-@euxn23< ゆん | ユーン >。現実世界では鈴木 雄大 (YUTA SUZUKI)。
+@euxn23< ユーン > as 鈴木 雄大< YUTA SUZUKI >。
+<br>
+都内で働く、主に Angular / TypeScript のソフトウェアエンジニア。
+<br>
+他にもサーバサイドやインフラも少々。
 <br>
 1992年茨城県農家生まれ農家育ち。ダイヤルアップ時代にインターネットを始める。
 <br>
 経済学部に入学後、機会に恵まれ Java と Ruby を主に学び、エンジニアとして就職。
 <br>
 2015 年よりエンジニアサポートCROSS ([cross-party.com](http://cross-party.com))実行委員。
-<br>
-Web を中心にフロントからサーバサイドまで開発。インフラも少々
-<br>
-現在は目黒で働く Web エンジニア。
 """
 
 [[params.social]]
